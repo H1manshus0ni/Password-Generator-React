@@ -10,7 +10,7 @@ to start the project :
 
 
 
-here are some screen shots of the project
+ screen shots of the project
 
 ![image](https://github.com/H1manshus0ni/Password-Generator-React/assets/97780628/7796cafb-a96a-4696-80ae-7a82bcf1b358)
 
