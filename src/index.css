@@ -1,0 +1,17 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-image: url('https://images.pexels.com/photos/869258/pexels-photo-869258.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+      /* This property ensures that the background image covers the entire element */
+      background-size: cover;
+    background-position: center; /* This property centers the background image */
+    background-repeat: no-repeat; /* This property prevents the background image from repeating */
+    height: 99vh;
+    
+    margin: 0; /* Remove default body margin */
+    overflow: hidden;
+  }
+  
