@@ -4,7 +4,7 @@ here , i have created a simple Password Generator project with the help of react
 
 to start the project :
 
-1. type "npm init" in command line which essentially install the the required dependencies for running this project
+1. type "npm init" in command line which essentially install all the required dependencies for running this project
 2. type "npm run dev " to start the project . 
 
 
